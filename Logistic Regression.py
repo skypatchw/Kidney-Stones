@@ -15,7 +15,7 @@ print(f"NumPy Version: {np.__version__}\nPandas Version: {pd.__version__}")
 # In[2]:
 
 
-kidney = pd.read_csv("E:/Data Science Institute/Datasets/Kidney Stones/kidney stones.csv")
+kidney = pd.read_csv("/Datasets/Kidney Stones/kidney stones.csv")
 
 
 # # EXPLORATORY DATA ANALYSIS 
